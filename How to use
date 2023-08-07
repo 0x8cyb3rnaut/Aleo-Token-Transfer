@@ -1,0 +1,10 @@
+How to use the script:
+
+Copy the code provided above into a file with the extension .py.
+Run the script.
+Enter the sender's private key when prompted. This is required to sign the transaction.
+Enter the recipient's address.
+Enter the amount of tokens you want to send.
+The script will create and broadcast a transfer transaction to the Aleo blockchain.
+It will return the transaction hash if the transfer is successful.
+The "Aleo Token Transfer" script allows you to securely and privately send tokens to other Aleo wallets. Please ensure that you have the necessary permissions to send tokens from the specified wallet before using this script. Always double-check the recipient's address to avoid any unintended transfers.
